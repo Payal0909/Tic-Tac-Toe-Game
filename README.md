@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game
- It is a fun game .
+ It is a simple and fun game .
  <br>
  This is my first project which I made when I was learning C language.
  <br>
